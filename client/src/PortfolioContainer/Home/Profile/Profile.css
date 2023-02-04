@@ -24,7 +24,7 @@
 }
 
 .profile-details-role h1{
-font-size: 40px;
+font-size: 30px;
 font-family: 'Times New Roman', Times, serif;
    }
 
@@ -91,7 +91,7 @@ font-family: 'Times New Roman', Times, serif;
         font-size: 20px;
     }
     .profile-details-role .primary-text{
-        font-size: 12px;
+        font-size: 10px;
     }
     .profile-options .btn {
         width: 120px;

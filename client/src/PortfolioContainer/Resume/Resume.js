@@ -72,7 +72,7 @@ export default function Resume(props){
         },
         {title: "Asset Management Website",
         duration: {fromDate:"2021", toDate:"2021"},
-        description:"For this project, I wanted to let this team within our company to have their own brand identity. To do this, I created a clean - sharp website that they could be proud of.  ",
+        description:"Created a modern website to showcase the brand identity of the AM Team.  ",
         link:<a href='https://www.youtube.com/watch?v=f7AW1lQwkcg&ab_channel=AlexisAttardo' target="_blank">Demo Video</a>,
         subHeading:"Technologies Used: Javascript, Bootstrap  "
        
