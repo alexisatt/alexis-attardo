@@ -1,7 +1,7 @@
 
 # Alexis Attardo Portfolio Websote
 
-The purpose of this application is to display my latest works. https://alexisattardo.com/
+The purpose of this application is to display my latest works.👩🏼‍💻 https://alexisattardo.com/
 
  # Built With
 
@@ -16,9 +16,10 @@ This app uses:
 
 ## Getting Started
 
-```javascript
+```
 npm install
 npm start
+
 ```
 
 server can be accessed at:
