@@ -1,7 +1,7 @@
 
 # Alexis Attardo Portfolio Websote
 
-The purpose of this application is to display my latest works.
+The purpose of this application is to display my latest works. https://alexisattardo.com/
 
  # Built With
 
@@ -21,8 +21,10 @@ npm install
 npm start
 ```
 
-server can be acced at:
+server can be accessed at:
 
 - [http://localhost:3000](http://localhost:3000)
+
+- https://alexisattardo.com/
 
 
