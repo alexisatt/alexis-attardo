@@ -102,8 +102,8 @@ font-family: 'Times New Roman', Times, serif;
 
 @media screen and (max-width: 910px){
     .profile-picture{
-        height:370px;
-        width:320px;
+        height:330px;
+        width:290px;
         margin: 0 0 0 4px;
     }
 
