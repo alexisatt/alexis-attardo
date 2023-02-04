@@ -2,6 +2,8 @@ import React, {useEffect} from 'react'
 import ScreenHeading from '../../utilities/ScreenHeading/ScreenHeading'
 import ScrollService from '../../utilities/ScrollService'
 import Animations from '../../utilities/Animations';
+import image from '../../assets/AboutMe/pic2.jpeg'
+
 import './AboutMe.css';
 
 export default function AboutMe(props) {
@@ -40,7 +42,7 @@ export default function AboutMe(props) {
         <div className='about-me-parent'>
             <ScreenHeading title={'About Me'} subHeading={'Why Choose Me?'}/>
             <div className='about-me-card'>
-                <div className='about-me-profile'> </div>
+                <img src={image} alt="Image of Alexis Attardo " className='about-me-profile' />
                 <div className='about-me-details'>
                     <span className='about-me-description'>
                         {SCREEN_CONSTANTS.description}
