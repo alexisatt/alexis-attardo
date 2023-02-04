@@ -10,7 +10,7 @@
   "runtime~main.js": "/static/js/runtime~main.71b23b62.js",
   "runtime~main.js.map": "/static/js/runtime~main.71b23b62.js.map",
   "static/media/mailz.jpeg": "/static/media/mailz.4325eb0f.jpeg",
-  "static/media/index.css": "/static/media/Poppins-Light.f6ea751e.ttf",
+  "static/media/index.css": "/static/media/Poppins-Thin.25cd0f68.ttf",
   "static/media/Profile.css": "/static/media/profile-image.6444890b.jpeg",
   "static/media/Home.css": "/static/media/bg.96d71c61.png",
   "static/media/AboutMe.css": "/static/media/pic2.fb92c1c8.jpeg",
@@ -20,9 +20,9 @@
   "static/media/projects.svg": "/static/media/projects.4940b202.svg",
   "static/media/work-history.svg": "/static/media/work-history.a59c5d12.svg",
   "static/media/Testimonial.css": "/static/media/bg-1.deace227.jpg",
-  "static/css/main.0a3ff413.chunk.css.map": "/static/css/main.0a3ff413.chunk.css.map",
   "static/css/2.3ebaaf99.chunk.css.map": "/static/css/2.3ebaaf99.chunk.css.map",
+  "static/css/main.0a3ff413.chunk.css.map": "/static/css/main.0a3ff413.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.fc3c8e6e2c9525b6e60b1d7280b7f9f1.js": "/precache-manifest.fc3c8e6e2c9525b6e60b1d7280b7f9f1.js",
+  "precache-manifest.989280084301c0ce7fbf987cfb6c41a8.js": "/precache-manifest.989280084301c0ce7fbf987cfb6c41a8.js",
   "service-worker.js": "/service-worker.js"
 }
