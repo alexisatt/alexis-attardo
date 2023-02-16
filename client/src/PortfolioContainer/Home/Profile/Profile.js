@@ -48,7 +48,7 @@ export default function Profile() {
                 </h1>
             </span>
             <span className='profile-role-tagline'>
-                Drive for building applications to solve your needs.
+            Building the bridge between aesthetics and functionality.
             </span>
         </div>
         <div className='profile-options'>
