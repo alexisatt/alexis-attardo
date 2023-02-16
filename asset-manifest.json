@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.232ae3bc.chunk.css",
-  "main.js": "/static/js/main.e4e61b68.chunk.js",
-  "main.js.map": "/static/js/main.e4e61b68.chunk.js.map",
+  "main.js": "/static/js/main.f95eb011.chunk.js",
+  "main.js.map": "/static/js/main.f95eb011.chunk.js.map",
   "static/js/1.11419f9a.chunk.js": "/static/js/1.11419f9a.chunk.js",
   "static/js/1.11419f9a.chunk.js.map": "/static/js/1.11419f9a.chunk.js.map",
   "static/css/2.c9348f22.chunk.css": "/static/css/2.c9348f22.chunk.css",
@@ -11,7 +11,7 @@
   "runtime~main.js.map": "/static/js/runtime~main.9c47fb1e.js.map",
   "static/media/pic2.jpeg": "/static/media/pic2.fb92c1c8.jpeg",
   "static/media/mailz.jpeg": "/static/media/mailz.4325eb0f.jpeg",
-  "static/media/index.css": "/static/media/Poppins-Thin.25cd0f68.ttf",
+  "static/media/index.css": "/static/media/Poppins-Light.f6ea751e.ttf",
   "static/media/Profile.css": "/static/media/profile2.db7a267a.jpg",
   "static/media/Home.css": "/static/media/bg.96d71c61.png",
   "static/media/education.svg": "/static/media/education.f17b17ea.svg",
@@ -23,6 +23,6 @@
   "static/css/main.232ae3bc.chunk.css.map": "/static/css/main.232ae3bc.chunk.css.map",
   "static/css/2.c9348f22.chunk.css.map": "/static/css/2.c9348f22.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.06dad6b9247eeecdaad4d827bfa52802.js": "/precache-manifest.06dad6b9247eeecdaad4d827bfa52802.js",
+  "precache-manifest.9f2085b36f5d497f10c9c81ac3b969cc.js": "/precache-manifest.9f2085b36f5d497f10c9c81ac3b969cc.js",
   "service-worker.js": "/service-worker.js"
 }
