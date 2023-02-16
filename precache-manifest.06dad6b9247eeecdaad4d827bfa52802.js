@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b41ea238648d2fe02ae7",
-    "url": "/static/css/main.a9ac8458.chunk.css"
+    "revision": "e4e61b68e71cf3e12ff9",
+    "url": "/static/css/main.232ae3bc.chunk.css"
   },
   {
-    "revision": "b41ea238648d2fe02ae7",
-    "url": "/static/js/main.b41ea238.chunk.js"
+    "revision": "e4e61b68e71cf3e12ff9",
+    "url": "/static/js/main.e4e61b68.chunk.js"
   },
   {
     "revision": "11419f9ab822d4f34c57",
@@ -36,16 +36,20 @@ self.__precacheManifest = [
     "url": "/static/media/Poppins-Medium.f61a4eb2.ttf"
   },
   {
+    "revision": "a3e0b5f427803a187c1b62c5919196aa",
+    "url": "/static/media/Poppins-Bold.a3e0b5f4.ttf"
+  },
+  {
     "revision": "8b6af8e5e8324edfd77af8b3b35d7f9c",
     "url": "/static/media/Poppins-Regular.8b6af8e5.ttf"
   },
   {
-    "revision": "4cdacb8f89d588d69e8570edcbe49507",
-    "url": "/static/media/Poppins-SemiBold.4cdacb8f.ttf"
+    "revision": "544fa4f2678a8285eb88b8dfe503c90c",
+    "url": "/static/media/Poppins-ExtraBold.544fa4f2.ttf"
   },
   {
-    "revision": "a3e0b5f427803a187c1b62c5919196aa",
-    "url": "/static/media/Poppins-Bold.a3e0b5f4.ttf"
+    "revision": "4cdacb8f89d588d69e8570edcbe49507",
+    "url": "/static/media/Poppins-SemiBold.4cdacb8f.ttf"
   },
   {
     "revision": "f6ea751e936ade6edcd03a26b8153b4a",
@@ -56,12 +60,8 @@ self.__precacheManifest = [
     "url": "/static/media/Poppins-Thin.25cd0f68.ttf"
   },
   {
-    "revision": "544fa4f2678a8285eb88b8dfe503c90c",
-    "url": "/static/media/Poppins-ExtraBold.544fa4f2.ttf"
-  },
-  {
-    "revision": "6444890b81ccb5f14b4cbfc9e2d792e3",
-    "url": "/static/media/profile-image.6444890b.jpeg"
+    "revision": "db7a267acab5770f8e916e4736296795",
+    "url": "/static/media/profile2.db7a267a.jpg"
   },
   {
     "revision": "96d71c6114fd06abdc6782a3f73f815a",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg-1.deace227.jpg"
   },
   {
-    "revision": "dd4a3ff322dbb96665a46cdc69f92f46",
+    "revision": "f19d45f3f4d5232a25ffdb908160e0be",
     "url": "/index.html"
   }
 ];
